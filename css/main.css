@@ -1708,6 +1708,9 @@ input::-moz-focus-inner {
 .header-social li a {
   color: #ffffff;
 }
+.header-social li a:hover {
+  color: #cf1767;
+}
 
 /* ------------------------------------------------------------------- 
  * ## menu trigger
@@ -3360,7 +3363,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3375,7 +3378,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
@@ -3386,7 +3389,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 4.2rem;
   }
 
   .contact-infos {
@@ -3405,7 +3408,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 5vw;
   }
 
   .contact-infos {
